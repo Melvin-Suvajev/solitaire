@@ -1,0 +1,2 @@
+# solitaire
+solitaire in C++
